@@ -1,13 +1,16 @@
-.general-section{
+.general-section {
     margin-bottom: 160px;
 }
-.general-list{
+
+.general-list {
     align-items: center;
 }
-.general-item{
+
+.general-item {
     margin-left: 40px;
 }
-.apply{
+
+.apply {
     margin-bottom: 24px;
     background-color: #F2F5F9;
     margin-left: 40px;
@@ -16,7 +19,29 @@
     display: flex;
     align-items: center;
 }
-.apply-btn{
+
+.apply-btn {
     margin-bottom: 0;
     margin-right: 65px;
+}
+
+.general-strong {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -1.07143px;
+    color: #495567;
+
+}
+
+.general-text {
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #495567;
+
 }

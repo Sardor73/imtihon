@@ -311,7 +311,6 @@ html {
 body {
   padding: 0;
   margin: 0;
-  background-color: bisque;
 }
 
 h1,
@@ -347,7 +346,6 @@ a {
   margin-right: auto;
   padding-left: 20px;
   padding-right: 20px;
-  background-color: rgba(0, 255, 255, 0.136);
 }
 
 .btn {
@@ -655,6 +653,7 @@ header {
 }
 
 .values-item {
+  margin: 0 20px;
   width: 350px;
   text-align: center;
 }
@@ -684,7 +683,6 @@ header {
   font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  /* or 167% */
   text-align: center;
   color: #939CAA;
 }
@@ -692,14 +690,13 @@ header {
 .values-oval {
   padding-top: 35px;
   position: relative;
-  left: 50%;
-  top: 31px;
+  left: -35%;
+  top: 270px;
   font-family: "Space Mono";
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
   line-height: 28px;
-  /* identical to box height, or 117% */
   text-align: center;
   letter-spacing: -1.07143px;
   color: #495567;
@@ -885,6 +882,10 @@ footer .footer_2 ul li a {
   display: inline-block;
 }
 
+.care-section {
+  margin-bottom: 120px;
+}
+
 .care {
   width: 100%;
   height: auto;
@@ -976,6 +977,25 @@ img {
 .apply-btn {
   margin-bottom: 0;
   margin-right: 65px;
+}
+
+.general-strong {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: -1.07143px;
+  color: #495567;
+}
+
+.general-text {
+  font-family: "Lexend Deca";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #495567;
 }
 
 .a-hero-section {

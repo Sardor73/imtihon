@@ -1,6 +1,7 @@
-.values-section{
+.values-section {
     margin-bottom: 120px;
 }
+
 .values-title {
     font-family: 'Space Mono';
     font-style: normal;
@@ -20,11 +21,12 @@
 }
 
 .values-item {
+    margin: 0 20px;
     width: 350px;
     text-align: center;
 }
-.values-img{
 
+.values-img {
     border-radius: 50%;
     width: 240px;
 }
@@ -49,28 +51,23 @@
     font-weight: 400;
     font-size: 15px;
     line-height: 25px;
-    /* or 167% */
-    
     text-align: center;
-    
     color: #939CAA;
-    
+
 }
-.values-oval{
+
+.values-oval {
     padding-top: 35px;
     position: relative;
-    left: 50%;
-    top: 31px;
+    left: -35%;
+    top: 270px;
     font-family: 'Space Mono';
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
     line-height: 28px;
-    /* identical to box height, or 117% */
-    
     text-align: center;
     letter-spacing: -1.07143px;
-    
     color: #495567;
-    
+
 }

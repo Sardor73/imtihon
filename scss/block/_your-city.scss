@@ -1,0 +1,33 @@
+.your_city-section {
+    margin-bottom: 120px;
+}
+
+.your_city-wrapp {
+    display: flex;
+    padding: 0 165px;
+    justify-content: space-between;
+}
+
+.your_city-title {
+    width: 350px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -2.14286px;
+    color: #495567;
+}
+
+.your_city-text {
+    width: 445px;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #939CAA;
+}
+.city-btn{
+    display: block;
+}

@@ -1,0 +1,76 @@
+.values-section{
+    margin-bottom: 120px;
+}
+.values-title {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -2.14286px;
+    color: #495567;
+    margin-bottom: 103px;
+}
+
+.values-list {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 165px;
+}
+
+.values-item {
+    width: 350px;
+    text-align: center;
+}
+.values-img{
+
+    border-radius: 50%;
+    width: 240px;
+}
+
+.values-strong {
+    margin-top: 100px;
+    display: inline-block;
+    margin-bottom: 27px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -1.07143px;
+    color: #495567;
+}
+
+.values-text {
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    /* or 167% */
+    
+    text-align: center;
+    
+    color: #939CAA;
+    
+}
+.values-oval{
+    padding-top: 35px;
+    position: relative;
+    left: 50%;
+    top: 31px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height, or 117% */
+    
+    text-align: center;
+    letter-spacing: -1.07143px;
+    
+    color: #495567;
+    
+}
